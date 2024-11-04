@@ -3,7 +3,7 @@
 <h2> IT/Cybersecurity Projects (⌐■_■):</h2>
 
   - [File Integrity Monitor CIA Triad Project](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Active Directory Setup & PowerShell Automation Project](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Active Directory Setup & PowerShell Automation Project](https://github.com/Therealgonzalez/Active-Directory-PowerShell-Automation-Lab)
  
 
 <h2>📺 Popular YouTube Videos ミ ᕕ(ᐛ) ᕗ</h2>
