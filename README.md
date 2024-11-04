@@ -1,4 +1,7 @@
-<h1>I'm Bryant G. welcome to my GitHub!<br/>Cybersecurity Analyst</a>, <a IT/Cybersecurity Professional</a>, <a Beginner YouTuber</a></h1>
+<h1>I'm Bryant G. welcome to my GitHub!<br/>
+Cybersecurity Analyst 
+IT/Cybersecurity Professional 
+Beginner YouTuber
 
 <h2>👨‍💻 IT/Cybersecurity Projects:</h2>
 
