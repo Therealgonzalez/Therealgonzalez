@@ -1,15 +1,12 @@
-<h1>I'm Bryant G. welcome to my GitHub!<br/>
-Cybersecurity Analyst 
-IT/Cybersecurity Professional 
-Beginner YouTuber
+<h1>I'm Bryant! Welcome to my GitHub! ( ˘▽˘)っ♨<br/>
 
-<h2>👨‍💻 IT/Cybersecurity Projects:</h2>
+<h2> IT/Cybersecurity Projects (⌐■_■):</h2>
 
   - [File Integrity Monitor CIA Triad Project](https://github.com/joshmadakor1/Sentinel-Lab)
   - [Active Directory Setup & PowerShell Automation Project](https://github.com/joshmadakor1/Jwipe.PowerShell)
  
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Popular YouTube Videos ミ ᕕ(ᐛ) ᕗ</h2>
 
 
 
