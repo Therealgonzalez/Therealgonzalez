@@ -1,4 +1,4 @@
-<h1>I'm Bryant G. welcome to my GitHub!<br/><a href="https://github.com/Therealgonzalez">Cybersecurity Analyst</a>, <a href="https://www.linkedin.com/in/itsbryant/">IT/Cybersecurity Professional</a>, <a href="https://www.youtube.com/@opsecwithbryant">Beginner YouTuber</a></h1>
+<h1>I'm Bryant G. welcome to my GitHub!<br/>Cybersecurity Analyst</a>, <a IT/Cybersecurity Professional</a>, <a Beginner YouTuber</a></h1>
 
 <h2>👨‍💻 IT/Cybersecurity Projects:</h2>
 
