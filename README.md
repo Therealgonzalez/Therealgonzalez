@@ -2,7 +2,7 @@
 
 <h2> IT/Cybersecurity Projects (⌐■_■):</h2>
 
-  - [File Integrity Monitor CIA Triad Project](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [File Integrity Monitor CIA Triad Project](https://github.com/Therealgonzalez/File-Integrity-Monitor-Project)
   - [Active Directory Setup & PowerShell Automation Project](https://github.com/Therealgonzalez/Active-Directory-PowerShell-Automation-Lab)
  
 
